@@ -1,0 +1,4 @@
+interface:
+  display_name: "淘宝成交内容门禁"
+  short_description: "以转化漏斗规划并验收淘宝SKU、详情页和成交内容素材"
+  default_prompt: "Use $taobao-conversion-content-gate to plan and validate this Taobao link’s SKU and detail-page conversion content."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "淘宝主图竞争门禁"
+  short_description: "主图生图前验证消费者改变理由、同屏竞争力与产品保真"
+  default_prompt: "Use $taobao-main-image-gate to validate the consumer change reason, shelf differentiation, styleboard evidence, and product fidelity before creating a Taobao main image."

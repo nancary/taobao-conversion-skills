@@ -1,0 +1,4 @@
+interface:
+  display_name: "淘宝链接策略"
+  short_description: "从消费者、货架竞争和真实证据产出可验证的淘宝链接策略"
+  default_prompt: "Use $taobao-link-strategy to create an evidence-backed Taobao link strategy before visual execution."
